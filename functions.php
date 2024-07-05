@@ -15,6 +15,9 @@ function add_files() {
     wp_enqueue_style('main-style', get_stylesheet_uri('/style.css'));
     wp_enqueue_script('jquery-cdn', 'https://code.jquery.com/jquery-3.6.0.min.js', array(), '3.6.0', false);
     // contact.phpだけにcontact.cssを読み込ませる
+    if (is_page_template('front-page.php')) {
+        wp_enqueue_style('front-page-style', get_template_directory_uri() . '/assets/scss/pages/home.css');
+    }
     if (is_page_template('contact.php')) {
         wp_enqueue_style('contact-style', get_template_directory_uri() . '/assets/scss/pages/contact.css');
     }
