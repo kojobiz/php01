@@ -18,7 +18,7 @@
     <title>test top | test</title>
 
     <!-- css -->
-    <!-- <link rel="stylesheet" href="./assets/scss/pages/home.css"> -->
+    <!-- <link rel="stylesheet" href="./style.css"> -->
     <!-- js -->
     <!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> -->
     <!-- Font Icon -->
