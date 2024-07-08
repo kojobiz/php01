@@ -5,9 +5,6 @@
 document.getElementById('spnav-open').addEventListener('click', function() {
     document.querySelector('.l-spnav').style.display = 'block';
 });
-document.getElementById('spnav-open').addEventListener('click', function() {
-    document.querySelector('.l-spnav').style.display = 'block';
-});
 // sp-close
 document.getElementById('spnav-close').addEventListener('click', function() {
     document.querySelector('.l-spnav').style.display = 'none';
@@ -95,5 +92,3 @@ setTimeout(function() {
         $(this).addClass("is-active");
     });
 }, 1300);
-
-
