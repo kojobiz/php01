@@ -17,7 +17,7 @@
                     <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_hero010203.png" alt="">
                 </div>
                 <div class="p-cta--firstview text82">
-                    <a href="./contact.html" class="c-btn-cta--service--round--pc">
+                    <a href="http://design63.wp.xdomain.jp/contact/" class="c-btn-cta--service--round--pc">
                         <svg id="コンポーネント_2_2" data-name="コンポーネント 2 – 2" xmlns="http://www.w3.org/2000/svg" width="467.6" height="134.344" viewBox="0 0 467.6 134.344">
                             <rect id="長方形_18" data-name="長方形 18" width="467.6" height="134.344" rx="67" fill="#159868"/>
                             <text id="_1分でカンタン入力_" data-name="1分でカンタン入力！" transform="translate(234 51)" fill="#fff" font-size="23" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-weight="700"><tspan x="-110" y="0">1分</tspan><tspan y="0">でカンタン</tspan><tspan y="0">入力！</tspan></text>
@@ -28,7 +28,7 @@
                             </g>
                         </svg>
                     </a>
-                    <a href="./contact.html" class="c-btn-cta--trial--round--pc p-cta--firstview-round-trial">
+                    <a href="http://design63.wp.xdomain.jp/contact/" class="c-btn-cta--trial--round--pc p-cta--firstview-round-trial">
                         <svg id="コンポーネント_3_2" data-name="コンポーネント 3 – 2" xmlns="http://www.w3.org/2000/svg" width="467.6" height="134.344" viewBox="0 0 467.6 134.344">
                             <rect id="長方形_18" data-name="長方形 18" width="467.6" height="134.344" rx="67" fill="#ff8000"/>
                             <text id="初めてでも安心_" data-name="初めてでも安心！" transform="translate(234 51)" fill="#fff" font-size="23" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-weight="700"><tspan x="-92" y="0">初</tspan><tspan y="0">めてでも</tspan><tspan y="0">安心！</tspan></text>
@@ -101,7 +101,7 @@
         ----------------------------------->
         <section class="l-cta-pc">
             <div class="p-cta--pc text80">
-                <a href="./contact.html"  class="c-btn-cta--service--round--pc">
+                <a href="http://design63.wp.xdomain.jp/contact/"  class="c-btn-cta--service--round--pc">
                     <svg id="コンポーネント_2_2" data-name="コンポーネント 2 – 2" xmlns="http://www.w3.org/2000/svg" width="350" height="auto" viewBox="0 0 467.6 134.344">
                         <rect id="長方形_18" data-name="長方形 18" width="467.6" height="134.344" rx="67" fill="#159868"/>
                         <text id="_1分でカンタン入力_" data-name="1分でカンタン入力！" transform="translate(234 51)" fill="#fff" font-size="23" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-weight="700"><tspan x="-110" y="0">1分</tspan><tspan y="0">でカンタン</tspan><tspan y="0">入力！</tspan></text>
@@ -112,7 +112,7 @@
                         </g>
                     </svg>
                 </a>
-                <a href="./contact.html"  class="c-btn-cta--trial--round--pc">
+                <a href="http://design63.wp.xdomain.jp/contact/"  class="c-btn-cta--trial--round--pc">
                     <svg id="コンポーネント_3_2" data-name="コンポーネント 3 – 2" xmlns="http://www.w3.org/2000/svg" width="350" height="auto" viewBox="0 0 467.6 134.344" class="sp-only--paddingtop">
                         <rect id="長方形_18" data-name="長方形 18" width="467.6" height="134.344" rx="67" fill="#ff8000"/>
                         <text id="初めてでも安心_" data-name="初めてでも安心！" transform="translate(234 51)" fill="#fff" font-size="23" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-weight="700"><tspan x="-92" y="0">初</tspan><tspan y="0">めてでも</tspan><tspan y="0">安心！</tspan></text>
@@ -250,63 +250,37 @@
         <!----------------------------------
         work 導入実績
         ----------------------------------->
+        <?php
+   				$args = Array(
+    			 'post_type' => 'record_banner',
+     			'posts_per_page' => -1,
+  				);
+   				$the_query = new WP_Query($args);
+   				if($the_query -> have_posts()):
+ 			?>
         <section class="l-work c-x-center" id="work">
             <div class="l-work-contents c-padding--x50px c-padding--y100px c-margin--0auto">
                 <h3 class="l-contents__title">導入実績</h3>
                 <hr class="c-title__hr c-title__hr--green c-margin--b100px">
                 <ul class="l-work-contents-itemsbox text80">
-                    <li class="p-item">
-                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_worklogo.png" alt="">
-                    </li>
-                    <li class="p-item">
-                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_worklogo.png" alt="">
-                    </li>
-                    <li class="p-item">
-                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_worklogo.png" alt="">
-                    </li>
-                    <li class="p-item">
-                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_worklogo.png" alt="">
-                    </li>
-                    <li class="p-item">
-                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_worklogo.png" alt="">
-                    </li>
-                    <li class="p-item">
-                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_worklogo.png" alt="">
-                    </li>
-                    <li class="p-item">
-                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_worklogo.png" alt="">
-                    </li>
-                    <li class="p-item">
-                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_worklogo.png" alt="">
-                    </li>
-                    <li class="p-item">
-                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_worklogo.png" alt="">
-                    </li>
-                    <li class="p-item">
-                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_worklogo.png" alt="">
-                    </li>
-                    <li class="p-item">
-                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_worklogo.png" alt="">
-                    </li>
-                    <li class="p-item">
-                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_worklogo.png" alt="">
-                    </li>
-                    <li class="p-item">
-                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_worklogo.png" alt="">
-                    </li>
-                    <li class="p-item">
-                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_worklogo.png" alt="">
-                    </li>
-                    <li class="p-item">
-                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_worklogo.png" alt="">
-                    </li>
-                    <li class="p-item">
-                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_worklogo.png" alt="">
-                    </li>
-                </ul>
+					 		<?php while ( $the_query->have_posts() ) : $the_query->the_post(); ?>
+           				<?php if ( get_field( 'record_img' ) ): ?> 
+                    	<li class="p-item">
+									<?php if ( get_field( 'record_link' ) ): ?>
+										<a href="<?php echo get_field( 'record_link' ) ;?>" target="_blank">
+									<?php endif; ?>
+									<img src="<?php echo get_field( 'record_img' ) ;?>" alt="<?php the_title(); ?>">
+               					<?php if ( get_field( 'record_link' ) ): ?>
+									</a>
+               					<?php endif; ?>
+								</li>
+           				<?php endif; ?>
+         				<?php endwhile; ?>
+						</ul>
                 <p class="l-work-contents__text c-text--16-0-25">※企業ロゴの掲載は順不同です</p>
             </div>
         </section>
+ 	<?php  endif; wp_reset_postdata(); ?>
 
 
         <!----------------------------------
@@ -320,7 +294,8 @@
         ----------------------------------->
          <section class="l-cta-pc">
              <div class="p-cta--pc text80">
-                <a href="./contact.html"  class="c-btn-cta--service--round--pc">
+                <a href="http://design63.wp.xdomain.jp/contact/"  class="c-btn-cta--service--round--pc">
+                <!-- <a href="http://design63.wp.xdomain.jp/contact/"  class="c-btn-cta--service--round--pc"> -->
                      <svg id="コンポーネント_2_2" data-name="コンポーネント 2 – 2" xmlns="http://www.w3.org/2000/svg" width="350" height="auto" viewBox="0 0 467.6 134.344">
                          <rect id="長方形_18" data-name="長方形 18" width="467.6" height="134.344" rx="67" fill="#159868"/>
                          <text id="_1分でカンタン入力_" data-name="1分でカンタン入力！" transform="translate(234 51)" fill="#fff" font-size="23" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-weight="700"><tspan x="-110" y="0">1分</tspan><tspan y="0">でカンタン</tspan><tspan y="0">入力！</tspan></text>
@@ -331,7 +306,7 @@
                          </g>
                      </svg>
                  </a>
-                 <a href="./contact.html"  class="c-btn-cta--trial--round--pc">
+                 <a href="http://design63.wp.xdomain.jp/contact/"  class="c-btn-cta--trial--round--pc">
                      <svg id="コンポーネント_3_2" data-name="コンポーネント 3 – 2" xmlns="http://www.w3.org/2000/svg" width="350" height="auto" viewBox="0 0 467.6 134.344" class="sp-only--paddingtop">
                          <rect id="長方形_18" data-name="長方形 18" width="467.6" height="134.344" rx="67" fill="#ff8000"/>
                          <text id="初めてでも安心_" data-name="初めてでも安心！" transform="translate(234 51)" fill="#fff" font-size="23" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-weight="700"><tspan x="-92" y="0">初</tspan><tspan y="0">めてでも</tspan><tspan y="0">安心！</tspan></text>
@@ -470,7 +445,7 @@
         ----------------------------------->
         <section class="l-cta-pc">
             <div class="p-cta--pc text80">
-                <a href="./contact.html"  class="c-btn-cta--service--round--pc">
+                <a href="http://design63.wp.xdomain.jp/contact/"  class="c-btn-cta--service--round--pc">
                     <svg id="コンポーネント_2_2" data-name="コンポーネント 2 – 2" xmlns="http://www.w3.org/2000/svg" width="350" height="auto" viewBox="0 0 467.6 134.344">
                         <rect id="長方形_18" data-name="長方形 18" width="467.6" height="134.344" rx="67" fill="#159868"/>
                         <text id="_1分でカンタン入力_" data-name="1分でカンタン入力！" transform="translate(234 51)" fill="#fff" font-size="23" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-weight="700"><tspan x="-110" y="0">1分</tspan><tspan y="0">でカンタン</tspan><tspan y="0">入力！</tspan></text>
@@ -481,7 +456,7 @@
                         </g>
                     </svg>
                 </a>
-                <a href="./contact.html" class="c-btn-cta--trial--round--pc">
+                <a href="http://design63.wp.xdomain.jp/contact/" class="c-btn-cta--trial--round--pc">
                     <svg id="コンポーネント_3_2" data-name="コンポーネント 3 – 2" xmlns="http://www.w3.org/2000/svg" width="350" height="auto" viewBox="0 0 467.6 134.344" class="sp-only--paddingtop">
                         <rect id="長方形_18" data-name="長方形 18" width="467.6" height="134.344" rx="67" fill="#ff8000"/>
                         <text id="初めてでも安心_" data-name="初めてでも安心！" transform="translate(234 51)" fill="#fff" font-size="23" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-weight="700"><tspan x="-92" y="0">初</tspan><tspan y="0">めてでも</tspan><tspan y="0">安心！</tspan></text>
@@ -542,10 +517,10 @@
         <aside class="l-cta-aside sp--none" id="l-cta-aside">
             <div class="l-cta-aside--pc">
                 <div class="p-cta-aside--pc">
-                    <a href="./contact.html">
+                    <a href="http://design63.wp.xdomain.jp/contact/">
                         <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/btn_cta_service_square.png" alt="">
                     </a>
-                    <a href="./contact.html">
+                    <a href="http://design63.wp.xdomain.jp/contact/">
                         <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/btn_cta_trial_square.png" alt="">
                     </a>
                 </div>
@@ -555,10 +530,10 @@
         <aside class="l-cta-asidefooter pc--none" id="l-cta-asidefooter">
             <div class="l-cta-aside--sp">
                 <div class="p-cta-aside--sp">
-                    <a href="./contact.html">
+                    <a href="http://design63.wp.xdomain.jp/contact/">
                         <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/btn_cta_service_footer.png" alt="">
                     </a>
-                    <a href="./contact.html">
+                    <a href="http://design63.wp.xdomain.jp/contact/">
                         <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/btn_cta_trial_footer.png" alt="" class="p-cta-aside--sp-trial">
                     </a>
                 </div>
