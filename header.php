@@ -68,7 +68,7 @@
             ハンバーガーメニュー
             ----------------------------------->
             <div class="l-header-inner__menu--sp">
-                <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_spmenu_open.svg" alt="" id="spnav-open" class="spnav-open">
+                <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_spmenu_open.svg" alt="" id="spnav-open" class="spnav-open">
             </div>
         </div>
         <section class="l-spnav pc--none">
@@ -76,7 +76,7 @@
                 <div class="l-spnav-contents--left"></div>
                 <div class="l-spnav-contents--right">
                     <div class="l-spnav-inner">
-                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_spmenu_close.png" alt="" class="spnav-close" id="spnav-close">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_spmenu_close.png" alt="" class="spnav-close" id="spnav-close">
                         <h1 class="l-spnav-inner--logo">
                             <a href="./index.html"><img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/logo_pc.png" alt="" srcset=""></a>
                         </h1>
