@@ -9,10 +9,12 @@
 /*****************************
  * ファイルの読み込み
  ****************************/
-// 読み込みたいファイルを追加
+// 読み込ませたいファイルを追加
 function add_files() {
-    // メインのスタイル
-    wp_enqueue_style('main-style', get_stylesheet_uri('/style.css'));
+    // メインのスタイルstyle.cssを読み込ませるget_stylesheet_uri()
+    wp_enqueue_style('main-style', get_stylesheet_uri());
+    // トップページのスタイルhome.cssを読み込ませるget_template_directory_uri() . '/assets/scss/pages/home.css', array('main-style'));
+    wp_enqueue_style('home-style', get_template_directory_uri() . '/assets/scss/pages/home.css', array('main-style'));
     wp_enqueue_script('jquery-cdn', 'https://code.jquery.com/jquery-3.6.0.min.js', array(), '3.6.0', false);
     // contact.phpだけにcontact.cssを読み込ませる
     if (is_page_template('contact.php')) {
