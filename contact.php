@@ -124,7 +124,7 @@ form
 </section>
 <section class="l-form-btnarea c-padding--x50px c-margin--0auto c-x-center">
     <a href="./confirm.html">
-        <img src="http://testlu/wp-content/uploads/common/btn_confirm.png" alt="" >
+        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/btn_confirm.png" alt="" >
     </a>
 </section>
 <?php get_footer(); ?>

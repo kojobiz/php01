@@ -4,17 +4,17 @@
         ----------------------------------->
         <section class="l-firstview">
             <picture class="p-responsive-picture">
-                <source media="(min-width:768px)" srcset="http://testlu/wp-content/uploads/home/pc/img_hero_pc.jpg 1x, 
-                http://testlu/wp-content/uploads/home/pc/img_hero_pc.jpg 2x">
-                <source media="(max-width:767px)" srcset="http://testlu/wp-content/uploads/home/sp/img_hero_sp_compress.png 1x">
-                <img src="http://testlu/wp-content/uploads/home/sp/img_hero_sp_compress.png" width="" height="" alt="" class="-img">
+                <source media="(min-width:768px)" srcset="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_hero_pc.jpg 1x, 
+                http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_hero_pc.jpg 2x">
+                <source media="(max-width:767px)" srcset="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_hero_sp_compress.png 1x">
+                <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_hero_sp_compress.png" width="" height="" alt="" class="-img">
             </picture>
             <div class="l-firstview-contents">
                 <h2 class="l-firstview-contents__title c-h2--65-0-121 c-titlecolor--brightgreen text81">企業向け<br class="pc--none">AIアシスタントの新基準</h2>
                 <hr>
                 <p class="l-firstview-contents__text c-text--16-0-40 c-textcolor--green">Azure OpenAI ServiceやAmazon Bedrockを利用して、情報の安全性を確保しつつ、最新のAIテクノロジーを誰でも簡単に利用できる豊富な機能を提供。あらゆるシーンで、あなたの業務を強力にサポートします。</p>
                 <div class="l-firstview-contents__icons text81">
-                    <img src="http://testlu/wp-content/uploads/home/sp/img_hero010203.png" alt="">
+                    <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_hero010203.png" alt="">
                 </div>
                 <div class="p-cta--firstview text82">
                     <a href="./contact.html" class="c-btn-cta--service--round--pc">
@@ -54,11 +54,11 @@
                 <p class="text80 l-attention-contents__text c-width-65per c-x-center c-mtb--60 c-text--16">Smart Generative Chatなら<br class="pc--none">社内ナレッジもWeb上の最新情報も取得可能！<br>用途に合わせて柔軟にデータソースを選択いただけます</p>
                 <div class="text80">
                     <picture>
-                        <source media="(min-width:768px)" srcset="http://testlu/wp-content/uploads/home/pc/img_attention_pc.png 1x, 
-                        http://testlu/wp-content/uploads/home/pc/img_attention@2x_pc.png 2x">
-                        <source media="(max-width:767px)" srcset="http://testlu/wp-content/uploads/home/sp/img_attention_sp.png 1x, 
-                        http://testlu/wp-content/uploads/home/sp/img_attention@2x_sp.png 2x">
-                        <img src="http://testlu/wp-content/uploads/home/pc/img_attention_pc.png" width=auto height="auto" alt="" class="-img">
+                        <source media="(min-width:768px)" srcset="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_attention_pc.png 1x, 
+                        http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_attention@2x_pc.png 2x">
+                        <source media="(max-width:767px)" srcset="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_attention_sp.png 1x, 
+                        http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_attention@2x_sp.png 2x">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_attention_pc.png" width=auto height="auto" alt="" class="-img">
                     </picture>
                 </div>
             </div>
@@ -163,7 +163,7 @@
                             </ul>
                         </div>
                         <div class="p-item-imgbox">
-                            <img src="http://testlu/wp-content/uploads/home/pc/img_function_p1.png" alt="">
+                            <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_function_p1.png" alt="">
                         </div>
                     </li>
                     <!-- point2 -->
@@ -178,9 +178,9 @@
                         </div>
                         <div class="p-item-imgbox">
                             <div class="video-pc">
-                                <img src="http://testlu/wp-content/uploads/video/img_notepc.png" alt="" >
-                                <video id="videoPoint2" width="552" height="358" controls autoplay loop muted poster="http://testlu/wp-content/uploads/video/v_scenario_poster.png" class="video-point2">
-                                    <source src="http://testlu/wp-content/uploads/video/v_scenario.mp4" type="video/mp4">
+                                <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_notepc.png" alt="" >
+                                <video id="videoPoint2" width="552" height="358" controls autoplay loop muted poster="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07v_scenario_poster.png" class="video-point2">
+                                    <source src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07v_scenario.mp4" type="video/mp4">
                                 </video>
                             </div>
                         </div>
@@ -196,7 +196,7 @@
                             </ul>
                         </div>
                         <div class="p-item-imgbox">
-                            <img src="http://testlu/wp-content/uploads/home/pc/img_function_p3.png" alt="">
+                            <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_function_p3.png" alt="">
                         </div>
                     </li>
                     <!-- point4 -->
@@ -212,9 +212,9 @@
                         </div>
                         <div class="p-item-imgbox">
                             <picture>
-                                <source media="(min-width:768px)" srcset="http://testlu/wp-content/uploads/home/pc/img_function_p4_pc.png 1x">
-                                <source media="(max-width:767px)" srcset="http://testlu/wp-content/uploads/home/sp/img_function_p4_sp.png 1x, http://testlu/wp-content/uploads/home/sp/img_attention@2x_sp.png 2x">
-                                <img src="http://testlu/wp-content/uploads/home/pc/img_function_p4_pc.png" width=auto height="auto" alt="" class="-img">
+                                <source media="(min-width:768px)" srcset="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_function_p4_pc.png 1x">
+                                <source media="(max-width:767px)" srcset="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_function_p4_sp.png 1x, http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_attention@2x_sp.png 2x">
+                                <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_function_p4_pc.png" width=auto height="auto" alt="" class="-img">
                             </picture>
                         </div>
                     </li>
@@ -229,9 +229,9 @@
                         </div>
                         <div class="p-item-imgbox">
                             <div class="video-pc">
-                                <img src="http://testlu/wp-content/uploads/video/img_notepc.png" alt="" >
-                                <video id="videoPoint5" width="552" height="358" controls autoplay loop muted poster="http://testlu/wp-content/uploads/video/v_assistantapi_poster.png" class="video-point5">
-                                    <source src="http://testlu/wp-content/uploads/video/v_assistantapi.mp4" type="video/mp4">
+                                <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_notepc.png" alt="" >
+                                <video id="videoPoint5" width="552" height="358" controls autoplay loop muted poster="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07v_assistantapi_poster.png" class="video-point5">
+                                    <source src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07v_assistantapi.mp4" type="video/mp4">
                                 </video>
                             </div>
                         </div>
@@ -256,52 +256,52 @@
                 <hr class="c-title__hr c-title__hr--green c-margin--b100px">
                 <ul class="l-work-contents-itemsbox text80">
                     <li class="p-item">
-                        <img src="http://testlu/wp-content/uploads/home/pc/img_worklogo.png" alt="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_worklogo.png" alt="">
                     </li>
                     <li class="p-item">
-                        <img src="http://testlu/wp-content/uploads/home/pc/img_worklogo.png" alt="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_worklogo.png" alt="">
                     </li>
                     <li class="p-item">
-                        <img src="http://testlu/wp-content/uploads/home/pc/img_worklogo.png" alt="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_worklogo.png" alt="">
                     </li>
                     <li class="p-item">
-                        <img src="http://testlu/wp-content/uploads/home/pc/img_worklogo.png" alt="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_worklogo.png" alt="">
                     </li>
                     <li class="p-item">
-                        <img src="http://testlu/wp-content/uploads/home/pc/img_worklogo.png" alt="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_worklogo.png" alt="">
                     </li>
                     <li class="p-item">
-                        <img src="http://testlu/wp-content/uploads/home/pc/img_worklogo.png" alt="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_worklogo.png" alt="">
                     </li>
                     <li class="p-item">
-                        <img src="http://testlu/wp-content/uploads/home/pc/img_worklogo.png" alt="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_worklogo.png" alt="">
                     </li>
                     <li class="p-item">
-                        <img src="http://testlu/wp-content/uploads/home/pc/img_worklogo.png" alt="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_worklogo.png" alt="">
                     </li>
                     <li class="p-item">
-                        <img src="http://testlu/wp-content/uploads/home/pc/img_worklogo.png" alt="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_worklogo.png" alt="">
                     </li>
                     <li class="p-item">
-                        <img src="http://testlu/wp-content/uploads/home/pc/img_worklogo.png" alt="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_worklogo.png" alt="">
                     </li>
                     <li class="p-item">
-                        <img src="http://testlu/wp-content/uploads/home/pc/img_worklogo.png" alt="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_worklogo.png" alt="">
                     </li>
                     <li class="p-item">
-                        <img src="http://testlu/wp-content/uploads/home/pc/img_worklogo.png" alt="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_worklogo.png" alt="">
                     </li>
                     <li class="p-item">
-                        <img src="http://testlu/wp-content/uploads/home/pc/img_worklogo.png" alt="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_worklogo.png" alt="">
                     </li>
                     <li class="p-item">
-                        <img src="http://testlu/wp-content/uploads/home/pc/img_worklogo.png" alt="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_worklogo.png" alt="">
                     </li>
                     <li class="p-item">
-                        <img src="http://testlu/wp-content/uploads/home/pc/img_worklogo.png" alt="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_worklogo.png" alt="">
                     </li>
                     <li class="p-item">
-                        <img src="http://testlu/wp-content/uploads/home/pc/img_worklogo.png" alt="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_worklogo.png" alt="">
                     </li>
                 </ul>
                 <p class="l-work-contents__text c-text--16-0-25">※企業ロゴの掲載は順不同です</p>
@@ -366,9 +366,9 @@
                 <hr class="c-title__hr c-title__hr--green">
                 <p class="l-contents__title-text text80">ご成約からおおよそ1.5ヶ月で納品となります<br>個別開発がある場合は開発要件に応じて<br class="pc--none">スケジュール調節をさせて頂きます</p>
                 <picture class="text80">
-                    <source media="(min-width:768px)" srcset="http://testlu/wp-content/uploads/home/pc/img_flow_pc.png 1x, /images/home/pc/img_flow_pc@2x_pc.png 2x">
-                    <source media="(max-width:767px)" srcset="http://testlu/wp-content/uploads/home/sp/img_flow_sp.png 1x, http://testlu/wp-content/uploads/home/sp/img_flow_sp@2x_sp.png 2x">
-                    <img src="http://testlu/wp-content/uploads/home/pc/img_flow_pc.png" width=auto height="auto" alt="" class="-img">
+                    <source media="(min-width:768px)" srcset="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_flow_pc.png 1x, /images/home/pc/img_flow_pc@2x_pc.png 2x">
+                    <source media="(max-width:767px)" srcset="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_flow_sp.png 1x, http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_flow_sp@2x_sp.png 2x">
+                    <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_flow_pc.png" width=auto height="auto" alt="" class="-img">
                 </picture>
             </div>
         </section>
@@ -388,7 +388,7 @@
                         <dd class="p-item-plan__recommend">毎月のランニングコストを抑えたい方にオススメ</dd>
                         <dd class="p-item-plan__amount c-textcolor--planblue">70,000</dd>
                         <dd class="p-item-plan__tax c-textcolor--planblue">円/月<br class="p-item-plan__tax--two">（税別）</dd>
-                        <img src="http://testlu/wp-content/uploads/home/pc/icon_free.png" alt="" class="p-item--getsugaku-attention text80">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07icon_free.png" alt="" class="p-item--getsugaku-attention text80">
                     </dl>
                     <dl class="p-item-plan p-item--syokihiyou">
                         <dt class="p-item-plan__name p-item-plan__name--tight c-textcolor--plangreen">初期費用プラン</dt>
@@ -425,11 +425,11 @@
                 </div>
                 <div class="l-support-contents-position">
                     <div class="l-support-contents-imgbox">
-                        <img src="http://testlu/wp-content/uploads/home/pc/img_support_pc_think_orange.svg" alt="" srcset="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_support_pc_think_orange.svg" alt="" srcset="">
                         <div></div>
-                        <img src="http://testlu/wp-content/uploads/home/pc/img_support_pc_think_green.svg" alt="" srcset="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_support_pc_think_green.svg" alt="" srcset="">
                     </div>
-                    <img src="http://testlu/wp-content/uploads/home/pc/img_support_pc.png" alt="" class="l-support-contents-imgbox__img-pc">
+                    <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07img_support_pc.png" alt="" class="l-support-contents-imgbox__img-pc">
                 </div>
         </section>
 
@@ -543,10 +543,10 @@
             <div class="l-cta-aside--pc">
                 <div class="p-cta-aside--pc">
                     <a href="./contact.html">
-                        <img src="http://testlu/wp-content/uploads/home/pc/btn_cta_service_square.png" alt="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07btn_cta_service_square.png" alt="">
                     </a>
                     <a href="./contact.html">
-                        <img src="http://testlu/wp-content/uploads/home/pc/btn_cta_trial_square.png" alt="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07btn_cta_trial_square.png" alt="">
                     </a>
                 </div>
             </div>
@@ -556,10 +556,10 @@
             <div class="l-cta-aside--sp">
                 <div class="p-cta-aside--sp">
                     <a href="./contact.html">
-                        <img src="http://testlu/wp-content/uploads/home/sp/btn_cta_service_footer.png" alt="">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07btn_cta_service_footer.png" alt="">
                     </a>
                     <a href="./contact.html">
-                        <img src="http://testlu/wp-content/uploads/home/sp/btn_cta_trial_footer.png" alt="" class="p-cta-aside--sp-trial">
+                        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07btn_cta_trial_footer.png" alt="" class="p-cta-aside--sp-trial">
                     </a>
                 </div>
             </div>
