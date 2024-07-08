@@ -35,7 +35,7 @@
     <header class="l-header">
         <div class="l-header-inner">
             <h1 class="l-header-inner__logo">
-                <a href="./index.html">
+                <a href="http://design63.wp.xdomain.jp/">
                     <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/logo_pc.png" alt="">
                 </a>
             </h1>
@@ -78,24 +78,24 @@
                     <div class="l-spnav-inner">
                         <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_spmenu_close.png" alt="" class="spnav-close" id="spnav-close">
                         <h1 class="l-spnav-inner--logo">
-                            <a href="./index.html"><img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/logo_pc.png" alt="" srcset=""></a>
+                            <a href="http://design63.wp.xdomain.jp/"><img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/logo_pc.png" alt="" srcset=""></a>
                         </h1>
                         <nav class="l-spnav-inner--nav">
                             <ul class="p-spnav-listbox">
                                 <li class="p-spnav-listbox__title">
-                                    <a href="#reason">選ばれる理由</a>
+                                    <a href="http://design63.wp.xdomain.jp/#reason">選ばれる理由</a>
                                 </li>
                                 <li class="p-spnav-listbox__title">
-                                    <a href="#fivefeatures">サービス紹介</a>
+                                    <a href="http://design63.wp.xdomain.jp/#fivefeatures">サービス紹介</a>
                                 </li>
                                 <li class="p-spnav-listbox__title">
-                                    <a href="#flow">導入までの流れ</a>
+                                    <a href="http://design63.wp.xdomain.jp/#flow">導入までの流れ</a>
                                 </li>
                                 <li class="p-spnav-listbox__title">
-                                    <a href="#plan">料金プラン</a>
+                                    <a href="http://design63.wp.xdomain.jp/#plan">料金プラン</a>
                                 </li>
                                 <li class="p-spnav-listbox__title">
-                                    <a href="#faq">よくあるご質問</a>
+                                    <a href="http://design63.wp.xdomain.jp/#faq">よくあるご質問</a>
                                 </li>
                             </ul>
                         </nav>
@@ -104,7 +104,7 @@
                             <div class="c-textcolor--green c-text--16-096-30 c-x-center">&nbsp;&nbsp;受付時間 10:00~18:00【土日祝定休日】</div>
                         </div>
                         <div class="p-cta--spnav">
-                            <a href="./contact.html"  class="c-btn-cta--service--round--pc">
+                            <a href="http://design63.wp.xdomain.jp/contact/"  class="c-btn-cta--service--round--pc">
                                 <svg id="コンポーネント_2_2" data-name="コンポーネント 2 – 2" xmlns="http://www.w3.org/2000/svg" width="467.6" height="134.344" viewBox="0 0 467.6 134.344">
                                     <rect id="長方形_18" data-name="長方形 18" width="467.6" height="134.344" rx="67" fill="#159868"/>
                                     <text id="_1分でカンタン入力_" data-name="1分でカンタン入力！" transform="translate(234 51)" fill="#fff" font-size="23" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-weight="700"><tspan x="-110" y="0">1分</tspan><tspan y="0">でカンタン</tspan><tspan y="0">入力！</tspan></text>
@@ -115,7 +115,7 @@
                                     </g>
                                 </svg>
                             </a>
-                            <a href="./contact.html" class="c-btn-cta--trial--round--pc p-cta--firstview-round-trial">
+                            <a href="http://design63.wp.xdomain.jp/contact/" class="c-btn-cta--trial--round--pc p-cta--firstview-round-trial">
                                 <svg id="コンポーネント_3_2" data-name="コンポーネント 3 – 2" xmlns="http://www.w3.org/2000/svg" width="467.6" height="134.344" viewBox="0 0 467.6 134.344">
                                     <rect id="長方形_18" data-name="長方形 18" width="467.6" height="134.344" rx="67" fill="#ff8000"/>
                                     <text id="初めてでも安心_" data-name="初めてでも安心！" transform="translate(234 51)" fill="#fff" font-size="23" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-weight="700"><tspan x="-92" y="0">初</tspan><tspan y="0">めてでも</tspan><tspan y="0">安心！</tspan></text>

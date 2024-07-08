@@ -123,7 +123,7 @@ form
     </div>
 </section>
 <section class="l-form-btnarea c-padding--x50px c-margin--0auto c-x-center">
-    <a href="./confirm.html">
+    <a href="http://design63.wp.xdomain.jp/confirm/">
         <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/btn_confirm.png" alt="" >
     </a>
 </section>

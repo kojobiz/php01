@@ -31,7 +31,7 @@ form
         </p>
     </section>
     <section class="l-form-btnarea c-padding--x50px c-margin--0auto c-x-center">
-        <a href="./index.html">
+        <a href="http://design63.wp.xdomain.jp/">
             <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/btn_totop.png" alt="" >
         </a>
     </section>
