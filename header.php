@@ -36,7 +36,7 @@
         <div class="l-header-inner">
             <h1 class="l-header-inner__logo">
                 <a href="./index.html">
-                    <img src="./images/common/logo_pc.png" alt="">
+                    <img src="http://testlu/wp-content/uploads/common/logo_pc.png" alt="">
                 </a>
             </h1>
             <div class="l-header-inner__menu--pc" id="menu--pc">
@@ -68,7 +68,7 @@
             ハンバーガーメニュー
             ----------------------------------->
             <div class="l-header-inner__menu--sp">
-                <img src="./images/home/sp/img_spmenu_open.svg" alt="" id="spnav-open" class="spnav-open">
+                <img src="http://testlu/wp-content/uploads/home/sp/img_spmenu_open.svg" alt="" id="spnav-open" class="spnav-open">
             </div>
         </div>
         <section class="l-spnav pc--none">
@@ -76,9 +76,9 @@
                 <div class="l-spnav-contents--left"></div>
                 <div class="l-spnav-contents--right">
                     <div class="l-spnav-inner">
-                        <img src="./images/home/sp/img_spmenu_close.png" alt="" class="spnav-close" id="spnav-close">
+                        <img src="http://testlu/wp-content/uploads/home/sp/img_spmenu_close.png" alt="" class="spnav-close" id="spnav-close">
                         <h1 class="l-spnav-inner--logo">
-                            <a href="./index.html"><img src="./images/common/logo_pc.png" alt="" srcset=""></a>
+                            <a href="./index.html"><img src="http://testlu/wp-content/uploads/common/logo_pc.png" alt="" srcset=""></a>
                         </h1>
                         <nav class="l-spnav-inner--nav">
                             <ul class="p-spnav-listbox">
