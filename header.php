@@ -41,7 +41,7 @@
             </h1>
             <div class="l-header-inner__menu--pc" id="menu--pc">
                 <div class="p-telinfo--header">
-                    <div class="c-textcolor--orange c-text--28-0-40 bold">TEL 03-3342-9620</div>
+                    <div class="c-textcolor--orange c-text--28-0-40 bold"><a href="tel:03-3342-9620">TEL 03-3342-9620</a></div>
                     <div class="c-textcolor--orange c-text--13-046-27 c-mright--minus10 c-x-center">受付時間 10:00~18:00【土日祝定休日】</div>
                 </div>
                 <nav class="p-nav">
@@ -100,7 +100,7 @@
                             </ul>
                         </nav>
                         <div class="p-telinfo">
-                            <div class="c-textcolor--green c-text--36-054-52 bold c-x-center">TEL 03-3342-9620</div>
+                            <div class="c-textcolor--green c-text--36-054-52 bold c-x-center"><a href="tel:03-3342-9620">TEL 03-3342-9620</a></div>
                             <div class="c-textcolor--green c-text--16-096-30 c-x-center">&nbsp;&nbsp;受付時間 10:00~18:00【土日祝定休日】</div>
                         </div>
                         <div class="p-cta--spnav">

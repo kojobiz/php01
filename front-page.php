@@ -54,11 +54,11 @@
                 <p class="text80 l-attention-contents__text c-width-65per c-x-center c-mtb--60 c-text--16">Smart Generative Chatなら<br class="pc--none">社内ナレッジもWeb上の最新情報も取得可能！<br>用途に合わせて柔軟にデータソースを選択いただけます</p>
                 <div class="text80">
                     <picture>
-                        <source media="(min-width:768px)" srcset="https://lkcodetest.sakura.ne.jp/cms/wp-content/uploads/2024/07/img_attention_pc.png 1x, 
-                        https://lkcodetest.sakura.ne.jp/cms/wp-content/uploads/2024/07/img_attention@2x_pc.png 2x">
-                        <source media="(max-width:767px)" srcset="https://lkcodetest.sakura.ne.jp/cms/wp-content/uploads/2024/07/img_attention_sp.png 1x, 
-                        https://lkcodetest.sakura.ne.jp/cms/wp-content/uploads/2024/07/img_attention@2x_sp.png 2x">
-                        <img src="https://lkcodetest.sakura.ne.jp/cms/wp-content/uploads/2024/07/img_attention_pc.png" width=auto height="auto" alt="" class="-img">
+                        <source media="(min-width:768px)" srcset="https://lkcodetest.sakura.ne.jp/cms/wp-content/uploads/images/home/pc/img_attention_pc.png 1x, 
+                        https://lkcodetest.sakura.ne.jp/cms/wp-content/uploads/images/home/pc/img_attention@2x_pc.png 2x">
+                        <source media="(max-width:767px)" srcset="https://lkcodetest.sakura.ne.jp/cms/wp-content/uploads/images/home/sp/img_attention_sp.png 1x, 
+                        https://lkcodetest.sakura.ne.jp/cms/wp-content/uploads/images/home/sp/img_attention@2x_sp.png 2x">
+                        <img src="https://lkcodetest.sakura.ne.jp/cms/wp-content/uploads/images/home/pc/img_attention_pc.png" width=auto height="auto" alt="" class="-img">
                     </picture>
                 </div>
             </div>
@@ -131,7 +131,7 @@
                     <path id="call_FILL1_wght400_GRAD0_opsz24" d="M159.92-800.654a37.672,37.672,0,0,1-14.543-2.978,43.719,43.719,0,0,1-13.071-8.443,40.47,40.47,0,0,1-9.1-12.132A30.841,30.841,0,0,1,120-837.7a2.143,2.143,0,0,1,.707-1.639,2.5,2.5,0,0,1,1.766-.656h9.539a2.29,2.29,0,0,1,1.472.519,1.97,1.97,0,0,1,.765,1.229l1.531,7.651a3.585,3.585,0,0,1-.059,1.476,2.269,2.269,0,0,1-.648,1.038l-5.711,5.355a26.365,26.365,0,0,0,2.8,3.907,39.651,39.651,0,0,0,3.562,3.634,40.647,40.647,0,0,0,3.827,3.142,37.547,37.547,0,0,0,4.239,2.65l5.535-5.137a3.365,3.365,0,0,1,1.384-.738,4.075,4.075,0,0,1,1.678-.136l8.125,1.53a2.761,2.761,0,0,1,1.354.792,1.846,1.846,0,0,1,.53,1.284v8.853a2.144,2.144,0,0,1-.707,1.639A2.5,2.5,0,0,1,159.92-800.654Z" transform="translate(-120 840)" fill="#30554c"/>
                         </svg>
                     </span>
-                    <span class="c-text--47-0-57 c-textcolor--green c-weight--bold">03-3342-9620</span>
+                    <a href="tel:03-3342-9620"><span class="c-text--47-0-57 c-textcolor--green c-weight--bold">03-3342-9620</span></a>
                 </p>
                 <p class="c-teltime c-textcolor--green">受付時間 10:00~18:00【土日祝定休日】</p>
             </div>
@@ -325,7 +325,7 @@
                      <path id="call_FILL1_wght400_GRAD0_opsz24" d="M159.92-800.654a37.672,37.672,0,0,1-14.543-2.978,43.719,43.719,0,0,1-13.071-8.443,40.47,40.47,0,0,1-9.1-12.132A30.841,30.841,0,0,1,120-837.7a2.143,2.143,0,0,1,.707-1.639,2.5,2.5,0,0,1,1.766-.656h9.539a2.29,2.29,0,0,1,1.472.519,1.97,1.97,0,0,1,.765,1.229l1.531,7.651a3.585,3.585,0,0,1-.059,1.476,2.269,2.269,0,0,1-.648,1.038l-5.711,5.355a26.365,26.365,0,0,0,2.8,3.907,39.651,39.651,0,0,0,3.562,3.634,40.647,40.647,0,0,0,3.827,3.142,37.547,37.547,0,0,0,4.239,2.65l5.535-5.137a3.365,3.365,0,0,1,1.384-.738,4.075,4.075,0,0,1,1.678-.136l8.125,1.53a2.761,2.761,0,0,1,1.354.792,1.846,1.846,0,0,1,.53,1.284v8.853a2.144,2.144,0,0,1-.707,1.639A2.5,2.5,0,0,1,159.92-800.654Z" transform="translate(-120 840)" fill="#30554c"/>
                          </svg>
                      </span>
-                     <span class="c-text--47-0-57 c-textcolor--green c-weight--bold">03-3342-9620</span>
+                     <a href="tel:03-3342-9620"><span class="c-text--47-0-57 c-textcolor--green c-weight--bold">03-3342-9620</span></a>
                  </p>
                  <p class="c-teltime c-textcolor--green">受付時間 10:00~18:00【土日祝定休日】</p>
              </div>
@@ -475,7 +475,7 @@
                     <path id="call_FILL1_wght400_GRAD0_opsz24" d="M159.92-800.654a37.672,37.672,0,0,1-14.543-2.978,43.719,43.719,0,0,1-13.071-8.443,40.47,40.47,0,0,1-9.1-12.132A30.841,30.841,0,0,1,120-837.7a2.143,2.143,0,0,1,.707-1.639,2.5,2.5,0,0,1,1.766-.656h9.539a2.29,2.29,0,0,1,1.472.519,1.97,1.97,0,0,1,.765,1.229l1.531,7.651a3.585,3.585,0,0,1-.059,1.476,2.269,2.269,0,0,1-.648,1.038l-5.711,5.355a26.365,26.365,0,0,0,2.8,3.907,39.651,39.651,0,0,0,3.562,3.634,40.647,40.647,0,0,0,3.827,3.142,37.547,37.547,0,0,0,4.239,2.65l5.535-5.137a3.365,3.365,0,0,1,1.384-.738,4.075,4.075,0,0,1,1.678-.136l8.125,1.53a2.761,2.761,0,0,1,1.354.792,1.846,1.846,0,0,1,.53,1.284v8.853a2.144,2.144,0,0,1-.707,1.639A2.5,2.5,0,0,1,159.92-800.654Z" transform="translate(-120 840)" fill="#30554c"/>
                         </svg>
                     </span>
-                    <span class="c-text--47-0-57 c-textcolor--green c-weight--bold">03-3342-9620</span>
+                    <a href="tel:03-3342-9620"><span class="c-text--47-0-57 c-textcolor--green c-weight--bold">03-3342-9620</span></a>
                 </p>
                 <p class="c-teltime c-text--16 c-textcolor--green">受付時間 10:00~18:00【土日祝定休日】</p>
             </div>
