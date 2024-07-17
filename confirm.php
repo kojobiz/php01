@@ -89,7 +89,7 @@ form
     </div>
 </section>
 <section class="l-form-btnarea c-padding--x50px c-margin--0auto c-x-center">
-    <a href="http://design63.wp.xdomain.jp/contact/">
+    <a href="https://lkcodetest.sakura.ne.jp/cms/contact/">
         <svg xmlns="http://www.w3.org/2000/svg" width="253.255" height="79.154" viewBox="0 0 253.255 79.154">
             <g id="グループ_413" data-name="グループ 413" transform="translate(42.114)">
                 <rect id="長方形_18" data-name="長方形 18" width="253.255" height="79.154" rx="39.577" transform="translate(-42.114)" fill="#8f8f8f"/>

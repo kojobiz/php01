@@ -32,7 +32,7 @@ form
     </section>
     <section class="l-form-btnarea c-padding--x50px c-margin--0auto c-x-center">
         <a href="https://lkcodetest.sakura.ne.jp/cms/">
-            <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/btn_totop.png" alt="" >
+            <img src="https://lkcodetest.sakura.ne.jp/cms/wp-content/uploads/images/common/btn_totop.png" alt="" >
         </a>
     </section>
 </div>

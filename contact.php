@@ -123,8 +123,8 @@ form
     </div>
 </section>
 <section class="l-form-btnarea c-padding--x50px c-margin--0auto c-x-center">
-    <a href="http://design63.wp.xdomain.jp/confirm/">
-        <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/btn_confirm.png" alt="" >
+    <a href="https://lkcodetest.sakura.ne.jp/cms/confirm/">
+        <img src="https://lkcodetest.sakura.ne.jp/cms/wp-content/uploads/images/common/btn_confirm.png" alt="" >
     </a>
 </section>
 <?php get_footer(); ?>
