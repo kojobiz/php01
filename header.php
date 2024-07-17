@@ -35,7 +35,7 @@
     <header class="l-header">
         <div class="l-header-inner">
             <h1 class="l-header-inner__logo">
-                <a href="http://design63.wp.xdomain.jp/">
+                <a href="https://lkcodetest.sakura.ne.jp/cms/">
                     <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/logo_pc.png" alt="">
                 </a>
             </h1>
@@ -47,19 +47,19 @@
                 <nav class="p-nav">
                     <ul class="p-nav-listbox">
                         <li class="p-nav-listbox__title">
-                            <a href="#reason">選ばれる理由</a>
+                            <a href="https://lkcodetest.sakura.ne.jp/cms#reason">選ばれる理由</a>
                         </li>
                         <li class="p-nav-listbox__title">
-                            <a href="#fivefeatures">サービス紹介</a>
+                            <a href="https://lkcodetest.sakura.ne.jp/cms#fivefeatures">サービス紹介</a>
                         </li>
                         <li class="p-nav-listbox__title">
-                            <a href="#flow">導入までの流れ</a>
+                            <a href="https://lkcodetest.sakura.ne.jp/cms#flow">導入までの流れ</a>
                         </li>
                         <li class="p-nav-listbox__title">
-                            <a href="#plan">料金プラン</a>
+                            <a href="https://lkcodetest.sakura.ne.jp/cms#plan">料金プラン</a>
                         </li>
                         <li class="p-nav-listbox__title">
-                            <a href="#faq">よくあるご質問</a>
+                            <a href="https://lkcodetest.sakura.ne.jp/cms#faq">よくあるご質問</a>
                         </li>
                     </ul>
                 </nav>
@@ -78,24 +78,24 @@
                     <div class="l-spnav-inner">
                         <img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/img_spmenu_close.png" alt="" class="spnav-close" id="spnav-close">
                         <h1 class="l-spnav-inner--logo">
-                            <a href="http://design63.wp.xdomain.jp/"><img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/logo_pc.png" alt="" srcset=""></a>
+                            <a href="https://lkcodetest.sakura.ne.jp/cms/"><img src="http://design63.wp.xdomain.jp/wp-content/uploads/2024/07/logo_pc.png" alt="" srcset=""></a>
                         </h1>
                         <nav class="l-spnav-inner--nav">
                             <ul class="p-spnav-listbox">
                                 <li class="p-spnav-listbox__title">
-                                    <a href="http://design63.wp.xdomain.jp/#reason">選ばれる理由</a>
+                                    <a href="https://lkcodetest.sakura.ne.jp/cms#reason">選ばれる理由</a>
                                 </li>
                                 <li class="p-spnav-listbox__title">
-                                    <a href="http://design63.wp.xdomain.jp/#fivefeatures">サービス紹介</a>
+                                    <a href="https://lkcodetest.sakura.ne.jp/cms#fivefeatures">サービス紹介</a>
                                 </li>
                                 <li class="p-spnav-listbox__title">
-                                    <a href="http://design63.wp.xdomain.jp/#flow">導入までの流れ</a>
+                                    <a href="https://lkcodetest.sakura.ne.jp/cms#flow">導入までの流れ</a>
                                 </li>
                                 <li class="p-spnav-listbox__title">
-                                    <a href="http://design63.wp.xdomain.jp/#plan">料金プラン</a>
+                                    <a href="https://lkcodetest.sakura.ne.jp/cms#plan">料金プラン</a>
                                 </li>
                                 <li class="p-spnav-listbox__title">
-                                    <a href="http://design63.wp.xdomain.jp/#faq">よくあるご質問</a>
+                                    <a href="https://lkcodetest.sakura.ne.jp/cms#faq">よくあるご質問</a>
                                 </li>
                             </ul>
                         </nav>
